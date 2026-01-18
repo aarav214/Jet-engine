@@ -1,0 +1,8 @@
+/model/rf_model.pklmodel/*.pkl
+*.pkl
+*.joblib
+*.h5
+*.onnx
+__pycache__/
+venv/
+.env
